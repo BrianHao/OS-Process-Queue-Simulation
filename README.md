@@ -1,4 +1,5 @@
-#Operating System Process Queue Simulation
+# Operating System Process Queue Simulation
+
 Brian Hao
 
 A basic command-line simulation of an operating system and its management of processes. Scheduling uses preemptive priority scheduling. I/O device (in this case, HDD) queues are FCFS.
